@@ -1,3 +1,16 @@
+`hgbfje`
+
+``` csharp
+private void OnPropertyChanged(string propertyName)
+{
+   PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+}
+```
+
+
+
+
+
 fglsagfdkshjg fds `var PropertyName = "City";` fslb kfds gfd
 
 ``` csharp
