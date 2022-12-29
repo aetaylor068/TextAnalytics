@@ -1,3 +1,21 @@
+Android | iOS| Windows
+---|:---:|---:
+Medium App for Android | Medium App for iOS| Medium App for Windows
+ghalks,gafasdfsd,gsdgasdg,gafdsaa|fadfsdfsd,erwrewrwerew|fai2oirslfsadflsahd
+[Play Store](https://play.google.com/store/apps/details?id=com.medium.reader&hl=en) | [App Store](https://itunes.apple.com/us/app/medium/id828256236?mt=8) | [Just web, LOL](https://medium.com/)
+![](android.png) | ![iOS](ios.png) |
+
+
+
+
+
+
+
+
+
+
+
+
 fglsagfdkshjg fds `var PropertyName = "City";` fslb kfds gfd
 
 ``` csharp
